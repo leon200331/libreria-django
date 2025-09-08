@@ -9,7 +9,7 @@ Este proyecto corresponde a la tarea práctica de **ORM en Django**, donde se cr
 Aquí se muestran las capturas de las consultas y resultados en el shell de Django:
 
 ![consultas](capturas/consultas.png)
-![consultas avanzadas](capturas/consultas avanzadas.png)
+![consulta](capturas/consulta.png)
 
 
 ---
